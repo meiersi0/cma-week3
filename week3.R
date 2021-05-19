@@ -6,8 +6,6 @@ library(terra)        # To handle raster data
 library(lubridate)    # To handle dates and times
 library(SimilarityMeasures)
 
-setwd("C:/Users/simon/Desktop/Simon/Simon/MSc/Pattern and Trends/week3/week3")
-
 
 
 #____________________________________________________________
